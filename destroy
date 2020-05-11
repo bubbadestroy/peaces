@@ -1,0 +1,27 @@
+
+LEAP#324 EspoTek Labrador
+Jul 21, 2017 Electronics Tools
+1 minute read
+
+The EspoTek Labrador is a crowd-funded lab-on-a-board that includes an oscilloscope, waveform generator, power supply, logic analyzer, and multimeter. I was drawn to the project specifically because it promised open hardware, and multi-platform open source software. I’m really impressed by my first tests - no trouble getting the board up and running on MacOSX. As always, all notes, schematics and code are in the Little Electronics & Arduino Projects repo on GitHub
+
+
+https://github.com/tardate/LittleArduinoProjects/stargazers
+
+
+QT:
+
+Open Source Usage Obligations  
+
+The majority of the Qt modules are available under the LGPL v3 and GPL v3 open source license. When developing under this license your obligations are to:
+
+    Provide a re-linking mechanism for Qt libraries
+    Provide a license copy & explicitly acknowledge Qt use
+    Make a Qt source code copy available for customers
+    Accept that Qt source code modifications are non-proprietary
+    Make “open” consumer devices
+    Accept Digital Rights Management terms, please see the GPL FAQ
+    Take special consideration when attempting to enforce software patents FAQ
+
+
+https://www.qt.io/product/features
